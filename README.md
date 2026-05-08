@@ -1,5 +1,18 @@
 # Calculadora Genérica con Delegados y Control de Excepciones
 
+## Portada
+
+Nombre completo : Enmanuel Acevedo Arias
+
+Universidad : INSTITUTO TECNOLÓGICO DE LAS AMÉRICAS - ITLA 
+
+Materia : C# .NET Intermedio
+
+Sección : CSH-102-C-2026-02-YM 
+
+Tema : Tarea práctica 2 - Unidad 2
+
+
 ## Propósito del proyecto
 Esta aplicación de consola en C# permite gestionar una lista genérica de números y realizar operaciones matemáticas sobre ella. El objetivo es demostrar el uso práctico de tipos genéricos, delegados y control de excepciones. La calculadora soporta distintos tipos de datos numéricos (`int`, `double`, `float`, `decimal`) y ofrece cuatro operaciones: suma, resta, multiplicación y división.
 
